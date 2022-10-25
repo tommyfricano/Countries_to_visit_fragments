@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Countries to visit fragments</string>
+    <string name="intro">Are you looking for Adventure? If so, you have come to the right application! We will guide you through five of the most popular countries to visit. To get started simply select a country from the list below and then press either button!</string>
+</resources>
